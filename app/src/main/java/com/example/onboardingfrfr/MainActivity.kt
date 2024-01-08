@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         val webView = findViewById<WebView>(R.id.webViewID)
         webView.webViewClient = WebViewClient()
-        webView.loadUrl("https://estin-guide-alpha.vercel.app/")
+        webView.loadUrl("https://estin-guide-2npl.vercel.app/")
         webView.settings.javaScriptEnabled = true
 
 
